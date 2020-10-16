@@ -7,32 +7,30 @@ Each round consists of 100 days. You can do as many rounds as you like.
 
 **Mata Pelajaran:** Mat Saintek
 
-**Topik:** Logaritma
+**Topik:** Polinom
 
-**Kualitas:** 3/5, biasa saja.
+**Kualitas:** 4/5
 
-**Catatan:** Hari ini ok.
+**Catatan:** 
 
-**Durasi belajar:** 60 menit.
+**Durasi belajar:** 90 menit.
 
-**Link kerjaan:** [Polynomial, R1D1](https://docs.google.com/document/d/1PpnYSWtBe9B4bnxOfZlYr-D37vEt9E2FWgxlTbcKgaQ/edit?usp=sharing)
-(link kerjaan isinya foto catatan dan/atau foto pengerjaan soal)
+**Link kerjaan:** -
 
 <hr>
 
 ### R1D2. Day 2: October 17, 2020
 
-**Mata Pelajaran:** Kimia
+**Mata Pelajaran:** 
 
-**Topik:** Titrasi
+**Topik:** 
 
-**Kualitas:** 4/5
+**Kualitas:**
 
-**Catatan:** Hari ini ok.
+**Catatan:** 
 
-**Durasi belajar:** 60 menit.
+**Durasi belajar:** 
 
-**Link kerjaan:** [Titrasi, R1D2](https://docs.google.com/document/d/1PpnYSWtBe9B4bnxOfZlYr-D37vEt9E2FWgxlTbcKgaQ/edit?usp=sharing)
-
+**Link kerjaan:** 
 
 dst.
