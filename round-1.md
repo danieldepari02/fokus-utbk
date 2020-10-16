@@ -7,7 +7,7 @@ Each round consists of 100 days. You can do as many rounds as you like.
 
 **Mata Pelajaran:** Mat Saintek
 
-**Topik:** Polinom
+**Topik:** Logaritma
 
 **Kualitas:** 3/5, biasa saja.
 
