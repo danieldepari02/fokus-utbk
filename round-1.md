@@ -3,7 +3,7 @@ Each round consists of 100 days. You can do as many rounds as you like.
 
 <hr>
 
-### R1D1. Day 1: October 16, 2020
+### R1D1. Day 1: October 17, 2020
 
 **Mata Pelajaran:** Mat Saintek
 
@@ -19,9 +19,9 @@ Each round consists of 100 days. You can do as many rounds as you like.
 
 <hr>
 
-### R1D2. Day 2: October 17, 2020
+### R1D2. Day 2: October 18, 2020
 
-**Mata Pelajaran:** 
+**Mata Pelajaran:** Mat Saintek + Fisika Saintek
 
 **Topik:** 
 
