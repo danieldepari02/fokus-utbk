@@ -11,7 +11,7 @@ Each round consists of 100 days. You can do as many rounds as you like.
 
 **Kualitas:** 4/5
 
-**Catatan:** 
+**Catatan:** untuk pembagi yang berderajat 2, selain pake horner bertingkat, bisa juga pake horner kino (hrs teliti), tp sebenarnya pake bersusun lbh simple si.
 
 **Durasi belajar:** 90 menit.
 
